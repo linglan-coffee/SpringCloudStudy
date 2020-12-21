@@ -9,6 +9,7 @@ import javax.swing.*;
 public class PayMentApp {
     /**
      * 系统主函数
+     * 启动类
      * @param args
      */
     public static void main(String[] args) {
